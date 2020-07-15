@@ -1,0 +1,21 @@
+html {
+
+    background-color: #000000;
+  }
+  h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    font-size: 4.5rem;
+  }
+
+  .hero-title {
+    font-size: 4.5rem;
+  }
+
+}
+
+#homepage-main-title {
+  font-style: italic;
+
+
+}
